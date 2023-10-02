@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Lib_8
 {
-    public class Class1 //БОЛОТО
+    public class Class1 //БОЛОТО здесь новый коммент 
     {
         static public int GetMax(int n, out List<int> generated)
         {
